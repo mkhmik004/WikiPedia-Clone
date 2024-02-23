@@ -20,6 +20,6 @@ WikiSite is a collaborative knowledge platform built using Django and Bootstrap.
 4. Start the development server using `python manage.py runserver`.
 5. Access the site in your web browser at `http://localhost:8000`.
 
-## Repository
+
 
 
