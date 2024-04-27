@@ -3,9 +3,7 @@ Collaborative knowledge platform where users can create and edit wiki articles o
 
 ## Demo Vid
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cdqIl0uor9Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[![YouTube Video](https://img.youtube.com/vi/cdqIl0uor9Q/0.jpg)](https://www.youtube.com/watch?v=cdqIl0uor9Q)
 
 
 # CS50W WikiSite
