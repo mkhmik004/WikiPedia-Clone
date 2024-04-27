@@ -1,0 +1,13 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+     Encyclopedia
+{% endblock %}
+
+{% block body %}
+
+     {% for entry in sub_query%}
+     <li> <a href={%url 'entry' title=entry %}>{{ entry }}</li> </a>
+     {% endfor %}
+
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Error
+{% endblock %}
+
+{% load static %}
+{% block body %}
+    <h1>Error</h1>
+    <p><strong>{{ message }}</strong></p>
+    
+    <img src="{% static 'encyclopedia/assets/error.jpeg' %}" alt="Error Image" class="d-block mx-auto">
+{% endblock %}
+
