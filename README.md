@@ -1,5 +1,10 @@
 # wikisite
 Collaborative knowledge platform where users can create and edit wiki articles on various topics.
+
+#DEMO
+[![YouTube Video](https://img.youtube.com/vi/cdqIl0uor9Q/0.jpg)](https://www.youtube.com/watch?v=cdqIl0uor9Q)
+
+
 # CS50W WikiSite
 
 WikiSite is a collaborative knowledge platform built using Django and Bootstrap. It allows users to create and edit wiki articles on various topics. With features such as article creation, editing, and search functionality, CS50W WikiSite provides a seamless experience for both creators and consumers of knowledge.
